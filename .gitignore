@@ -1,0 +1,12 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Flutter web build: debug-only artifacts (not loaded at runtime)
+*.js.map
+canvaskit/**/*.symbols
