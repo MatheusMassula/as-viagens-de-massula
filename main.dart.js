@@ -145597,7 +145597,7 @@ s($,"d6i","chA",()=>A.cbW(!1))
 s($,"d6j","chB",()=>A.cbW(!0))
 s($,"d2T","aNe",()=>A.bFU(t.K))
 s($,"d7C","bDZ",()=>new A.bfB())
-s($,"d7G","cim",()=>A.c8V("d3b14c8769",null,"Flutter","3.47.2 (stable) - Git hash d3b14c8769 - Git URL https://github.com/flutter/flutter.git",null,"3.47.2 (stable)"))
+s($,"d7G","cim",()=>A.c8V("d3b14c8769",null,"Flutter","3.47.2 (stable) - Git hash d3b14c8769 - Git URL https://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@github.com/flutter/flutter.git",null,"3.47.2 (stable)"))
 s($,"d7w","cig",()=>{var q=null
 return A.c8V(q,q,"Dart",q,q,"3.13.2")})
 s($,"d1K","ceK",()=>new A.v())
